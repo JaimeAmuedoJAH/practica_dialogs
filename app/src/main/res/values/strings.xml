@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">practica_dialogs</string>
+    <string name="button">Practice</string>
+    <string name="hint_name">Introduce your name</string>
+
+    <string name="dialog_title">Choose or write</string>
+    <string name="dialog_neutral">Clean</string>
+    <string name="dialog_negative">Cancel</string>
+    <string name="dialog_positive">Accept</string>
+
+    <string-array name="langugaes">
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>C#</item>
+        <item>Python</item>
+        <item>Swift</item>
+    </string-array>
+
+    <string-array name="Course">
+        <item>DAM</item>
+        <item>DAW</item>
+        <item>ASIR</item>
+    </string-array>
+</resources>

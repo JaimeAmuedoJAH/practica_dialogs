@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button">Practica</string>
+    <string name="dialog_title">Elige o escribe</string>
+
+    <string-array name="langugaes">
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>C#</item>
+        <item>Python</item>
+        <item>Swift</item>
+    </string-array>
+
+    <string-array name="Course">
+        <item>DAM</item>
+        <item>DAW</item>
+        <item>ASIR</item>
+    </string-array>
+    <string name="dialog_neutral">Limpiar</string>
+    <string name="dialog_negative">Cancelar</string>
+    <string name="dialog_positive">Aceptar</string>
+</resources>
